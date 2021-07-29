@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Employee_BAL\bin\Debug\net5.0\Employee_BAL.deps.json
+C:\Users\HP\source\repos\Employee_BAL\bin\Debug\net5.0\Employee_BAL.dll
+C:\Users\HP\source\repos\Employee_BAL\bin\Debug\net5.0\ref\Employee_BAL.dll
+C:\Users\HP\source\repos\Employee_BAL\bin\Debug\net5.0\Employee_BAL.pdb
+C:\Users\HP\source\repos\Employee_BAL\bin\Debug\net5.0\Employee_DAL.dll
+C:\Users\HP\source\repos\Employee_BAL\bin\Debug\net5.0\Employee_DAL.pdb
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\Employee_BAL.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\Employee_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\Employee_BAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\Employee_BAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\Employee_BAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\Employee_BAL.csproj.CopyComplete
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\Employee_BAL.dll
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\ref\Employee_BAL.dll
+C:\Users\HP\source\repos\Employee_BAL\obj\Debug\net5.0\Employee_BAL.pdb

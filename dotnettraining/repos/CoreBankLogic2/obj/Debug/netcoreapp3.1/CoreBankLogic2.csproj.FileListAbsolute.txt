@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\CoreBankLogic2\bin\Debug\netcoreapp3.1\CoreBankLogic2.deps.json
+C:\Users\HP\source\repos\CoreBankLogic2\bin\Debug\netcoreapp3.1\CoreBankLogic2.dll
+C:\Users\HP\source\repos\CoreBankLogic2\bin\Debug\netcoreapp3.1\CoreBankLogic2.pdb
+C:\Users\HP\source\repos\CoreBankLogic2\obj\Debug\netcoreapp3.1\CoreBankLogic2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CoreBankLogic2\obj\Debug\netcoreapp3.1\CoreBankLogic2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CoreBankLogic2\obj\Debug\netcoreapp3.1\CoreBankLogic2.AssemblyInfo.cs
+C:\Users\HP\source\repos\CoreBankLogic2\obj\Debug\netcoreapp3.1\CoreBankLogic2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CoreBankLogic2\obj\Debug\netcoreapp3.1\CoreBankLogic2.dll
+C:\Users\HP\source\repos\CoreBankLogic2\obj\Debug\netcoreapp3.1\CoreBankLogic2.pdb

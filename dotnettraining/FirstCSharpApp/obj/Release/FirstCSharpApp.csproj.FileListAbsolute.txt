@@ -1,0 +1,6 @@
+H:\Trainings\C#\Demos\FirstCSharpApp\FirstCSharpApp\bin\Release\FirstCSharpApp.exe.config
+H:\Trainings\C#\Demos\FirstCSharpApp\FirstCSharpApp\bin\Release\FirstCSharpApp.exe
+H:\Trainings\C#\Demos\FirstCSharpApp\FirstCSharpApp\bin\Release\FirstCSharpApp.pdb
+H:\Trainings\C#\Demos\FirstCSharpApp\FirstCSharpApp\obj\Release\FirstCSharpApp.csprojResolveAssemblyReference.cache
+H:\Trainings\C#\Demos\FirstCSharpApp\FirstCSharpApp\obj\Release\FirstCSharpApp.exe
+H:\Trainings\C#\Demos\FirstCSharpApp\FirstCSharpApp\obj\Release\FirstCSharpApp.pdb

@@ -1,0 +1,13 @@
+D:\dotnettraining\CollectionDemos\bin\Debug\netcoreapp3.1\CollectionDemos.exe
+D:\dotnettraining\CollectionDemos\bin\Debug\netcoreapp3.1\CollectionDemos.deps.json
+D:\dotnettraining\CollectionDemos\bin\Debug\netcoreapp3.1\CollectionDemos.runtimeconfig.json
+D:\dotnettraining\CollectionDemos\bin\Debug\netcoreapp3.1\CollectionDemos.runtimeconfig.dev.json
+D:\dotnettraining\CollectionDemos\bin\Debug\netcoreapp3.1\CollectionDemos.dll
+D:\dotnettraining\CollectionDemos\bin\Debug\netcoreapp3.1\CollectionDemos.pdb
+D:\dotnettraining\CollectionDemos\obj\Debug\netcoreapp3.1\CollectionDemos.csprojAssemblyReference.cache
+D:\dotnettraining\CollectionDemos\obj\Debug\netcoreapp3.1\CollectionDemos.AssemblyInfoInputs.cache
+D:\dotnettraining\CollectionDemos\obj\Debug\netcoreapp3.1\CollectionDemos.AssemblyInfo.cs
+D:\dotnettraining\CollectionDemos\obj\Debug\netcoreapp3.1\CollectionDemos.csproj.CoreCompileInputs.cache
+D:\dotnettraining\CollectionDemos\obj\Debug\netcoreapp3.1\CollectionDemos.dll
+D:\dotnettraining\CollectionDemos\obj\Debug\netcoreapp3.1\CollectionDemos.pdb
+D:\dotnettraining\CollectionDemos\obj\Debug\netcoreapp3.1\CollectionDemos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\dotnettraining\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.exe
+D:\dotnettraining\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.deps.json
+D:\dotnettraining\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.runtimeconfig.json
+D:\dotnettraining\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.runtimeconfig.dev.json
+D:\dotnettraining\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.dll
+D:\dotnettraining\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.pdb
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.csprojAssemblyReference.cache
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.Form1.resources
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.csproj.GenerateResource.cache
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.AssemblyInfoInputs.cache
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.AssemblyInfo.cs
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.csproj.CoreCompileInputs.cache
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.dll
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.pdb
+D:\dotnettraining\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.genruntimeconfig.cache

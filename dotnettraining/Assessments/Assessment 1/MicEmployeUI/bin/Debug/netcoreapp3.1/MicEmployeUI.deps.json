@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MicEmployeUI/1.0.0": {
+        "dependencies": {
+          "MicEmployeCoreLogic": "1.0.0"
+        },
+        "runtime": {
+          "MicEmployeUI.dll": {}
+        }
+      },
+      "MicEmployeCoreLogic/1.0.0": {
+        "runtime": {
+          "MicEmployeCoreLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicEmployeUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicEmployeCoreLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

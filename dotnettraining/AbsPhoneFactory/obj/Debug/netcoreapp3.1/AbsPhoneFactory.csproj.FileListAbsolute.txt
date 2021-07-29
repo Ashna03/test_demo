@@ -1,0 +1,9 @@
+D:\dotnettraining\AbsPhoneFactory\bin\Debug\netcoreapp3.1\AbsPhoneFactory.deps.json
+D:\dotnettraining\AbsPhoneFactory\bin\Debug\netcoreapp3.1\AbsPhoneFactory.dll
+D:\dotnettraining\AbsPhoneFactory\bin\Debug\netcoreapp3.1\AbsPhoneFactory.pdb
+D:\dotnettraining\AbsPhoneFactory\obj\Debug\netcoreapp3.1\AbsPhoneFactory.csprojAssemblyReference.cache
+D:\dotnettraining\AbsPhoneFactory\obj\Debug\netcoreapp3.1\AbsPhoneFactory.AssemblyInfoInputs.cache
+D:\dotnettraining\AbsPhoneFactory\obj\Debug\netcoreapp3.1\AbsPhoneFactory.AssemblyInfo.cs
+D:\dotnettraining\AbsPhoneFactory\obj\Debug\netcoreapp3.1\AbsPhoneFactory.csproj.CoreCompileInputs.cache
+D:\dotnettraining\AbsPhoneFactory\obj\Debug\netcoreapp3.1\AbsPhoneFactory.dll
+D:\dotnettraining\AbsPhoneFactory\obj\Debug\netcoreapp3.1\AbsPhoneFactory.pdb

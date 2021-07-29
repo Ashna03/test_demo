@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.exe
+C:\Users\HP\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.deps.json
+C:\Users\HP\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.runtimeconfig.json
+C:\Users\HP\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.dll
+C:\Users\HP\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.pdb
+C:\Users\HP\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.AssemblyInfo.cs
+C:\Users\HP\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.dll
+C:\Users\HP\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.pdb
+C:\Users\HP\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\BankCoreLogic\bin\Debug\netcoreapp3.1\BankCoreLogic.deps.json
+C:\Users\HP\source\repos\BankCoreLogic\bin\Debug\netcoreapp3.1\BankCoreLogic.dll
+C:\Users\HP\source\repos\BankCoreLogic\bin\Debug\netcoreapp3.1\BankCoreLogic.pdb
+C:\Users\HP\source\repos\BankCoreLogic\obj\Debug\netcoreapp3.1\BankCoreLogic.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BankCoreLogic\obj\Debug\netcoreapp3.1\BankCoreLogic.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BankCoreLogic\obj\Debug\netcoreapp3.1\BankCoreLogic.AssemblyInfo.cs
+C:\Users\HP\source\repos\BankCoreLogic\obj\Debug\netcoreapp3.1\BankCoreLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BankCoreLogic\obj\Debug\netcoreapp3.1\BankCoreLogic.dll
+C:\Users\HP\source\repos\BankCoreLogic\obj\Debug\netcoreapp3.1\BankCoreLogic.pdb

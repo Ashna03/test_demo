@@ -1,0 +1,16 @@
+D:\dotnettraining\Oopsapp\bin\Debug\netcoreapp3.1\Oopsapp.exe
+D:\dotnettraining\Oopsapp\bin\Debug\netcoreapp3.1\Oopsapp.deps.json
+D:\dotnettraining\Oopsapp\bin\Debug\netcoreapp3.1\Oopsapp.runtimeconfig.json
+D:\dotnettraining\Oopsapp\bin\Debug\netcoreapp3.1\Oopsapp.runtimeconfig.dev.json
+D:\dotnettraining\Oopsapp\bin\Debug\netcoreapp3.1\Oopsapp.dll
+D:\dotnettraining\Oopsapp\bin\Debug\netcoreapp3.1\Oopsapp.pdb
+D:\dotnettraining\Oopsapp\obj\Debug\netcoreapp3.1\Oopsapp.csprojAssemblyReference.cache
+D:\dotnettraining\Oopsapp\obj\Debug\netcoreapp3.1\Oopsapp.AssemblyInfoInputs.cache
+D:\dotnettraining\Oopsapp\obj\Debug\netcoreapp3.1\Oopsapp.AssemblyInfo.cs
+D:\dotnettraining\Oopsapp\obj\Debug\netcoreapp3.1\Oopsapp.csproj.CoreCompileInputs.cache
+D:\dotnettraining\Oopsapp\obj\Debug\netcoreapp3.1\Oopsapp.dll
+D:\dotnettraining\Oopsapp\obj\Debug\netcoreapp3.1\Oopsapp.pdb
+D:\dotnettraining\Oopsapp\obj\Debug\netcoreapp3.1\Oopsapp.genruntimeconfig.cache
+D:\dotnettraining\Oopsapp\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+D:\dotnettraining\Oopsapp\bin\Debug\netcoreapp3.1\Unity.Container.dll
+D:\dotnettraining\Oopsapp\obj\Debug\netcoreapp3.1\Oopsapp.csproj.CopyComplete

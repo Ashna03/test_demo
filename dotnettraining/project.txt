@@ -1,0 +1,17 @@
+HOW TO GO ABOUT IT - Each delivery is a SPRINT	
+	
+1. Research the Amazon workings	
+2. Identify the actors in the system	
+3. For each actor identify the properties & methods	
+4. See if additional relationships between the actors. Eg: Inheritance, Interface, Abstract class	
+5. Create a smal POC (Proof of concept). If the class is working with dummy data.	
+6. Create the skeleton of the classes, interfaces, abstract classes in a ClassLib project.	
+7. Divide the work	
+            1 feature per team member
+	Each person will identify set of tasks for himself / herself
+	a. Product Details => 2 days
+	b. Login & Logout =>  2 days
+8. Start implementing as per your task board	
+9. Coding Coding & Coding	
+10. Test	
+11. Done & signed-off

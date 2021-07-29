@@ -1,0 +1,13 @@
+D:\dotnettraining\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.exe
+D:\dotnettraining\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.deps.json
+D:\dotnettraining\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.runtimeconfig.json
+D:\dotnettraining\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.runtimeconfig.dev.json
+D:\dotnettraining\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.dll
+D:\dotnettraining\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.pdb
+D:\dotnettraining\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.csprojAssemblyReference.cache
+D:\dotnettraining\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.AssemblyInfoInputs.cache
+D:\dotnettraining\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.AssemblyInfo.cs
+D:\dotnettraining\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.csproj.CoreCompileInputs.cache
+D:\dotnettraining\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.dll
+D:\dotnettraining\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.pdb
+D:\dotnettraining\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.genruntimeconfig.cache

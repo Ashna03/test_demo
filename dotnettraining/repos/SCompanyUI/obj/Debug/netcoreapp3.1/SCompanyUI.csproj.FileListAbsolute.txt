@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\SCompanyUI\obj\Debug\netcoreapp3.1\SCompanyUI.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SCompanyUI\obj\Debug\netcoreapp3.1\SCompanyUI.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SCompanyUI\obj\Debug\netcoreapp3.1\SCompanyUI.AssemblyInfo.cs
+C:\Users\HP\source\repos\SCompanyUI\obj\Debug\netcoreapp3.1\SCompanyUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SCompanyUI\bin\Debug\netcoreapp3.1\SCompanyUI.exe
+C:\Users\HP\source\repos\SCompanyUI\bin\Debug\netcoreapp3.1\SCompanyUI.deps.json
+C:\Users\HP\source\repos\SCompanyUI\bin\Debug\netcoreapp3.1\SCompanyUI.runtimeconfig.json
+C:\Users\HP\source\repos\SCompanyUI\bin\Debug\netcoreapp3.1\SCompanyUI.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SCompanyUI\bin\Debug\netcoreapp3.1\SCompanyUI.dll
+C:\Users\HP\source\repos\SCompanyUI\bin\Debug\netcoreapp3.1\SCompanyUI.pdb
+C:\Users\HP\source\repos\SCompanyUI\bin\Debug\netcoreapp3.1\CompanyLogicLayer.dll
+C:\Users\HP\source\repos\SCompanyUI\bin\Debug\netcoreapp3.1\CompanyLogicLayer.pdb
+C:\Users\HP\source\repos\SCompanyUI\obj\Debug\netcoreapp3.1\SCompanyUI.csproj.CopyComplete
+C:\Users\HP\source\repos\SCompanyUI\obj\Debug\netcoreapp3.1\SCompanyUI.dll
+C:\Users\HP\source\repos\SCompanyUI\obj\Debug\netcoreapp3.1\SCompanyUI.pdb
+C:\Users\HP\source\repos\SCompanyUI\obj\Debug\netcoreapp3.1\SCompanyUI.genruntimeconfig.cache

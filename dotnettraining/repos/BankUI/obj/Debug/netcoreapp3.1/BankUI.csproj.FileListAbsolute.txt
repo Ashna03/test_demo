@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\BankUI\obj\Debug\netcoreapp3.1\BankUI.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BankUI\obj\Debug\netcoreapp3.1\BankUI.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BankUI\obj\Debug\netcoreapp3.1\BankUI.AssemblyInfo.cs
+C:\Users\HP\source\repos\BankUI\obj\Debug\netcoreapp3.1\BankUI.csproj.CoreCompileInputs.cache

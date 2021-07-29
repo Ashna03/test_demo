@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\lopping\lopping\bin\Debug\netcoreapp3.1\lopping.exe
+C:\Users\HP\source\repos\lopping\lopping\bin\Debug\netcoreapp3.1\lopping.deps.json
+C:\Users\HP\source\repos\lopping\lopping\bin\Debug\netcoreapp3.1\lopping.runtimeconfig.json
+C:\Users\HP\source\repos\lopping\lopping\bin\Debug\netcoreapp3.1\lopping.runtimeconfig.dev.json
+C:\Users\HP\source\repos\lopping\lopping\bin\Debug\netcoreapp3.1\lopping.dll
+C:\Users\HP\source\repos\lopping\lopping\bin\Debug\netcoreapp3.1\lopping.pdb
+C:\Users\HP\source\repos\lopping\lopping\obj\Debug\netcoreapp3.1\lopping.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\lopping\lopping\obj\Debug\netcoreapp3.1\lopping.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\lopping\lopping\obj\Debug\netcoreapp3.1\lopping.AssemblyInfo.cs
+C:\Users\HP\source\repos\lopping\lopping\obj\Debug\netcoreapp3.1\lopping.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\lopping\lopping\obj\Debug\netcoreapp3.1\lopping.dll
+C:\Users\HP\source\repos\lopping\lopping\obj\Debug\netcoreapp3.1\lopping.pdb
+C:\Users\HP\source\repos\lopping\lopping\obj\Debug\netcoreapp3.1\lopping.genruntimeconfig.cache

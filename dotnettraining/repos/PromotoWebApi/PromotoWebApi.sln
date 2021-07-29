@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotoWebApi", "PromotoWebApi.csproj", "{EE239013-4C8B-4E3F-BCDB-496C7D1104F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE239013-4C8B-4E3F-BCDB-496C7D1104F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE239013-4C8B-4E3F-BCDB-496C7D1104F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE239013-4C8B-4E3F-BCDB-496C7D1104F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE239013-4C8B-4E3F-BCDB-496C7D1104F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A739140F-55D5-454B-9FEF-35A415C87A24}
+	EndGlobalSection
+EndGlobal

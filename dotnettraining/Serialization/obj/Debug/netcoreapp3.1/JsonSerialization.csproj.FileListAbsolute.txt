@@ -1,0 +1,15 @@
+D:\dotnettraining\Serialization\bin\Debug\netcoreapp3.1\JsonSerialization.exe
+D:\dotnettraining\Serialization\bin\Debug\netcoreapp3.1\JsonSerialization.deps.json
+D:\dotnettraining\Serialization\bin\Debug\netcoreapp3.1\JsonSerialization.runtimeconfig.json
+D:\dotnettraining\Serialization\bin\Debug\netcoreapp3.1\JsonSerialization.runtimeconfig.dev.json
+D:\dotnettraining\Serialization\bin\Debug\netcoreapp3.1\JsonSerialization.dll
+D:\dotnettraining\Serialization\bin\Debug\netcoreapp3.1\JsonSerialization.pdb
+D:\dotnettraining\Serialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\dotnettraining\Serialization\obj\Debug\netcoreapp3.1\JsonSerialization.csprojAssemblyReference.cache
+D:\dotnettraining\Serialization\obj\Debug\netcoreapp3.1\JsonSerialization.AssemblyInfoInputs.cache
+D:\dotnettraining\Serialization\obj\Debug\netcoreapp3.1\JsonSerialization.AssemblyInfo.cs
+D:\dotnettraining\Serialization\obj\Debug\netcoreapp3.1\JsonSerialization.csproj.CoreCompileInputs.cache
+D:\dotnettraining\Serialization\obj\Debug\netcoreapp3.1\JsonSerialization.csproj.CopyComplete
+D:\dotnettraining\Serialization\obj\Debug\netcoreapp3.1\JsonSerialization.dll
+D:\dotnettraining\Serialization\obj\Debug\netcoreapp3.1\JsonSerialization.pdb
+D:\dotnettraining\Serialization\obj\Debug\netcoreapp3.1\JsonSerialization.genruntimeconfig.cache

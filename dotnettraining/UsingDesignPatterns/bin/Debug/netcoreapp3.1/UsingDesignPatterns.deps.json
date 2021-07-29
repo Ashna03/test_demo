@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UsingDesignPatterns/1.0.0": {
+        "dependencies": {
+          "AbsPhoneFactory": "1.0.0",
+          "AdapterPattern": "1.0.0"
+        },
+        "runtime": {
+          "UsingDesignPatterns.dll": {}
+        }
+      },
+      "AbsPhoneFactory/1.0.0": {
+        "runtime": {
+          "AbsPhoneFactory.dll": {}
+        }
+      },
+      "AdapterPattern/1.0.0": {
+        "runtime": {
+          "AdapterPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingDesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbsPhoneFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdapterPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

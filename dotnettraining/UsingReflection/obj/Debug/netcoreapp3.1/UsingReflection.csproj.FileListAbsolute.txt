@@ -1,0 +1,15 @@
+D:\dotnettraining\UsingReflection\bin\Debug\netcoreapp3.1\UsingReflection.exe
+D:\dotnettraining\UsingReflection\bin\Debug\netcoreapp3.1\UsingReflection.deps.json
+D:\dotnettraining\UsingReflection\bin\Debug\netcoreapp3.1\UsingReflection.runtimeconfig.json
+D:\dotnettraining\UsingReflection\bin\Debug\netcoreapp3.1\UsingReflection.runtimeconfig.dev.json
+D:\dotnettraining\UsingReflection\bin\Debug\netcoreapp3.1\UsingReflection.dll
+D:\dotnettraining\UsingReflection\bin\Debug\netcoreapp3.1\UsingReflection.pdb
+D:\dotnettraining\UsingReflection\obj\Debug\netcoreapp3.1\UsingReflection.csprojAssemblyReference.cache
+D:\dotnettraining\UsingReflection\obj\Debug\netcoreapp3.1\UsingReflection.AssemblyInfoInputs.cache
+D:\dotnettraining\UsingReflection\obj\Debug\netcoreapp3.1\UsingReflection.AssemblyInfo.cs
+D:\dotnettraining\UsingReflection\obj\Debug\netcoreapp3.1\UsingReflection.csproj.CoreCompileInputs.cache
+D:\dotnettraining\UsingReflection\obj\Debug\netcoreapp3.1\UsingReflection.dll
+D:\dotnettraining\UsingReflection\obj\Debug\netcoreapp3.1\UsingReflection.pdb
+D:\dotnettraining\UsingReflection\obj\Debug\netcoreapp3.1\UsingReflection.genruntimeconfig.cache
+D:\dotnettraining\UsingReflection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\dotnettraining\UsingReflection\obj\Debug\netcoreapp3.1\UsingReflection.csproj.CopyComplete

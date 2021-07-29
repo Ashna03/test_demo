@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabOops\obj\Debug\netcoreapp3.1\LabOops.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabOops\obj\Debug\netcoreapp3.1\LabOops.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabOops\obj\Debug\netcoreapp3.1\LabOops.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabOops\obj\Debug\netcoreapp3.1\LabOops.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabOops\bin\Debug\netcoreapp3.1\LabOops.exe
+C:\Users\HP\source\repos\LabOops\bin\Debug\netcoreapp3.1\LabOops.deps.json
+C:\Users\HP\source\repos\LabOops\bin\Debug\netcoreapp3.1\LabOops.runtimeconfig.json
+C:\Users\HP\source\repos\LabOops\bin\Debug\netcoreapp3.1\LabOops.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabOops\bin\Debug\netcoreapp3.1\LabOops.dll
+C:\Users\HP\source\repos\LabOops\bin\Debug\netcoreapp3.1\LabOops.pdb
+C:\Users\HP\source\repos\LabOops\obj\Debug\netcoreapp3.1\LabOops.dll
+C:\Users\HP\source\repos\LabOops\obj\Debug\netcoreapp3.1\LabOops.pdb
+C:\Users\HP\source\repos\LabOops\obj\Debug\netcoreapp3.1\LabOops.genruntimeconfig.cache

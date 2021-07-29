@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Employee_DAL\bin\Debug\net5.0\Employee_DAL.deps.json
+C:\Users\HP\source\repos\Employee_DAL\bin\Debug\net5.0\Employee_DAL.runtimeconfig.json
+C:\Users\HP\source\repos\Employee_DAL\bin\Debug\net5.0\Employee_DAL.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Employee_DAL\bin\Debug\net5.0\Employee_DAL.dll
+C:\Users\HP\source\repos\Employee_DAL\bin\Debug\net5.0\ref\Employee_DAL.dll
+C:\Users\HP\source\repos\Employee_DAL\bin\Debug\net5.0\Employee_DAL.pdb
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\Employee_DAL.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\Employee_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\Employee_DAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\Employee_DAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\Employee_DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\Employee_DAL.dll
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\ref\Employee_DAL.dll
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\Employee_DAL.pdb
+C:\Users\HP\source\repos\Employee_DAL\obj\Debug\net5.0\Employee_DAL.genruntimeconfig.cache

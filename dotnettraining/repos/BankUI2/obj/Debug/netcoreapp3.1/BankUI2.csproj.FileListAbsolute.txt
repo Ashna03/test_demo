@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\BankUI2\obj\Debug\netcoreapp3.1\BankUI2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BankUI2\obj\Debug\netcoreapp3.1\BankUI2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BankUI2\obj\Debug\netcoreapp3.1\BankUI2.AssemblyInfo.cs
+C:\Users\HP\source\repos\BankUI2\obj\Debug\netcoreapp3.1\BankUI2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BankUI2\bin\Debug\netcoreapp3.1\BankUI2.exe
+C:\Users\HP\source\repos\BankUI2\bin\Debug\netcoreapp3.1\BankUI2.deps.json
+C:\Users\HP\source\repos\BankUI2\bin\Debug\netcoreapp3.1\BankUI2.runtimeconfig.json
+C:\Users\HP\source\repos\BankUI2\bin\Debug\netcoreapp3.1\BankUI2.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BankUI2\bin\Debug\netcoreapp3.1\BankUI2.dll
+C:\Users\HP\source\repos\BankUI2\bin\Debug\netcoreapp3.1\BankUI2.pdb
+C:\Users\HP\source\repos\BankUI2\bin\Debug\netcoreapp3.1\CoreBankLogic2.dll
+C:\Users\HP\source\repos\BankUI2\bin\Debug\netcoreapp3.1\CoreBankLogic2.pdb
+C:\Users\HP\source\repos\BankUI2\obj\Debug\netcoreapp3.1\BankUI2.csproj.CopyComplete
+C:\Users\HP\source\repos\BankUI2\obj\Debug\netcoreapp3.1\BankUI2.dll
+C:\Users\HP\source\repos\BankUI2\obj\Debug\netcoreapp3.1\BankUI2.pdb
+C:\Users\HP\source\repos\BankUI2\obj\Debug\netcoreapp3.1\BankUI2.genruntimeconfig.cache

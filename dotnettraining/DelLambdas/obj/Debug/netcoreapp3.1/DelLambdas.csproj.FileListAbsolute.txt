@@ -1,0 +1,13 @@
+D:\dotnettraining\DelLambdas\bin\Debug\netcoreapp3.1\DelLambdas.exe
+D:\dotnettraining\DelLambdas\bin\Debug\netcoreapp3.1\DelLambdas.deps.json
+D:\dotnettraining\DelLambdas\bin\Debug\netcoreapp3.1\DelLambdas.runtimeconfig.json
+D:\dotnettraining\DelLambdas\bin\Debug\netcoreapp3.1\DelLambdas.runtimeconfig.dev.json
+D:\dotnettraining\DelLambdas\bin\Debug\netcoreapp3.1\DelLambdas.dll
+D:\dotnettraining\DelLambdas\bin\Debug\netcoreapp3.1\DelLambdas.pdb
+D:\dotnettraining\DelLambdas\obj\Debug\netcoreapp3.1\DelLambdas.csprojAssemblyReference.cache
+D:\dotnettraining\DelLambdas\obj\Debug\netcoreapp3.1\DelLambdas.AssemblyInfoInputs.cache
+D:\dotnettraining\DelLambdas\obj\Debug\netcoreapp3.1\DelLambdas.AssemblyInfo.cs
+D:\dotnettraining\DelLambdas\obj\Debug\netcoreapp3.1\DelLambdas.csproj.CoreCompileInputs.cache
+D:\dotnettraining\DelLambdas\obj\Debug\netcoreapp3.1\DelLambdas.dll
+D:\dotnettraining\DelLambdas\obj\Debug\netcoreapp3.1\DelLambdas.pdb
+D:\dotnettraining\DelLambdas\obj\Debug\netcoreapp3.1\DelLambdas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabRuntimePolymorphism\bin\Debug\netcoreapp3.1\LabRuntimePolymorphism.exe
+C:\Users\HP\source\repos\LabRuntimePolymorphism\bin\Debug\netcoreapp3.1\LabRuntimePolymorphism.deps.json
+C:\Users\HP\source\repos\LabRuntimePolymorphism\bin\Debug\netcoreapp3.1\LabRuntimePolymorphism.runtimeconfig.json
+C:\Users\HP\source\repos\LabRuntimePolymorphism\bin\Debug\netcoreapp3.1\LabRuntimePolymorphism.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabRuntimePolymorphism\bin\Debug\netcoreapp3.1\LabRuntimePolymorphism.dll
+C:\Users\HP\source\repos\LabRuntimePolymorphism\bin\Debug\netcoreapp3.1\LabRuntimePolymorphism.pdb
+C:\Users\HP\source\repos\LabRuntimePolymorphism\obj\Debug\netcoreapp3.1\LabRuntimePolymorphism.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabRuntimePolymorphism\obj\Debug\netcoreapp3.1\LabRuntimePolymorphism.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabRuntimePolymorphism\obj\Debug\netcoreapp3.1\LabRuntimePolymorphism.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabRuntimePolymorphism\obj\Debug\netcoreapp3.1\LabRuntimePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabRuntimePolymorphism\obj\Debug\netcoreapp3.1\LabRuntimePolymorphism.dll
+C:\Users\HP\source\repos\LabRuntimePolymorphism\obj\Debug\netcoreapp3.1\LabRuntimePolymorphism.pdb
+C:\Users\HP\source\repos\LabRuntimePolymorphism\obj\Debug\netcoreapp3.1\LabRuntimePolymorphism.genruntimeconfig.cache

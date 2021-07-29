@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\BankAccount\bin\Debug\net5.0\BankAccount.exe
+C:\Users\HP\source\repos\BankAccount\bin\Debug\net5.0\BankAccount.deps.json
+C:\Users\HP\source\repos\BankAccount\bin\Debug\net5.0\BankAccount.runtimeconfig.json
+C:\Users\HP\source\repos\BankAccount\bin\Debug\net5.0\BankAccount.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BankAccount\bin\Debug\net5.0\BankAccount.dll
+C:\Users\HP\source\repos\BankAccount\bin\Debug\net5.0\ref\BankAccount.dll
+C:\Users\HP\source\repos\BankAccount\bin\Debug\net5.0\BankAccount.pdb
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\BankAccount.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\BankAccount.AssemblyInfo.cs
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\BankAccount.dll
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\ref\BankAccount.dll
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\BankAccount.pdb
+C:\Users\HP\source\repos\BankAccount\obj\Debug\net5.0\BankAccount.genruntimeconfig.cache

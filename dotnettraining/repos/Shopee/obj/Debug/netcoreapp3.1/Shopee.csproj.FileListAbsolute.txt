@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Shopee\obj\Debug\netcoreapp3.1\Shopee.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Shopee\obj\Debug\netcoreapp3.1\Shopee.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Shopee\obj\Debug\netcoreapp3.1\Shopee.AssemblyInfo.cs
+C:\Users\HP\source\repos\Shopee\obj\Debug\netcoreapp3.1\Shopee.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Shopee\bin\Debug\netcoreapp3.1\Shopee.exe
+C:\Users\HP\source\repos\Shopee\bin\Debug\netcoreapp3.1\Shopee.deps.json
+C:\Users\HP\source\repos\Shopee\bin\Debug\netcoreapp3.1\Shopee.runtimeconfig.json
+C:\Users\HP\source\repos\Shopee\bin\Debug\netcoreapp3.1\Shopee.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Shopee\bin\Debug\netcoreapp3.1\Shopee.dll
+C:\Users\HP\source\repos\Shopee\bin\Debug\netcoreapp3.1\Shopee.pdb
+C:\Users\HP\source\repos\Shopee\obj\Debug\netcoreapp3.1\Shopee.dll
+C:\Users\HP\source\repos\Shopee\obj\Debug\netcoreapp3.1\Shopee.pdb
+C:\Users\HP\source\repos\Shopee\obj\Debug\netcoreapp3.1\Shopee.genruntimeconfig.cache

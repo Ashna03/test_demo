@@ -1,0 +1,16 @@
+D:\dotnettraining\First\bin\Debug\net5.0\First.exe
+D:\dotnettraining\First\bin\Debug\net5.0\First.deps.json
+D:\dotnettraining\First\bin\Debug\net5.0\First.runtimeconfig.json
+D:\dotnettraining\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+D:\dotnettraining\First\bin\Debug\net5.0\First.dll
+D:\dotnettraining\First\bin\Debug\net5.0\ref\First.dll
+D:\dotnettraining\First\bin\Debug\net5.0\First.pdb
+D:\dotnettraining\First\obj\Debug\net5.0\First.csprojAssemblyReference.cache
+D:\dotnettraining\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnettraining\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+D:\dotnettraining\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+D:\dotnettraining\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+D:\dotnettraining\First\obj\Debug\net5.0\First.dll
+D:\dotnettraining\First\obj\Debug\net5.0\ref\First.dll
+D:\dotnettraining\First\obj\Debug\net5.0\First.pdb
+D:\dotnettraining\First\obj\Debug\net5.0\First.genruntimeconfig.cache

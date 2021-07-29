@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\bin\Debug\netcoreapp3.1\MicEmployeCoreLogic.deps.json
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\bin\Debug\netcoreapp3.1\MicEmployeCoreLogic.dll
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\bin\Debug\netcoreapp3.1\MicEmployeCoreLogic.pdb
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\obj\Debug\netcoreapp3.1\MicEmployeCoreLogic.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\obj\Debug\netcoreapp3.1\MicEmployeCoreLogic.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\obj\Debug\netcoreapp3.1\MicEmployeCoreLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\obj\Debug\netcoreapp3.1\MicEmployeCoreLogic.dll
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\obj\Debug\netcoreapp3.1\MicEmployeCoreLogic.pdb
+C:\Users\HP\source\repos\Lab1\MicEmployeCoreLogic\obj\Debug\netcoreapp3.1\MicEmployeCoreLogic.csprojAssemblyReference.cache

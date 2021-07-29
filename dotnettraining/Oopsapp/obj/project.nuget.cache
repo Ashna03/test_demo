@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQ7eRZz0sw92z5OJqgVP86pzAg4zPHZ5bG2xZPuIobsTTZ89uKswBL39YwI+Jb057fFbIuEH7j9g4OyoPU5B9Q==",
+  "success": true,
+  "projectFilePath": "D:\\dotnettraining\\Oopsapp\\Oopsapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

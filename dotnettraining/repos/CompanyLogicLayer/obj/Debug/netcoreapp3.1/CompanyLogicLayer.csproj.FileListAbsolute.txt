@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\CompanyLogicLayer\obj\Debug\netcoreapp3.1\CompanyLogicLayer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CompanyLogicLayer\obj\Debug\netcoreapp3.1\CompanyLogicLayer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CompanyLogicLayer\obj\Debug\netcoreapp3.1\CompanyLogicLayer.AssemblyInfo.cs
+C:\Users\HP\source\repos\CompanyLogicLayer\obj\Debug\netcoreapp3.1\CompanyLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CompanyLogicLayer\bin\Debug\netcoreapp3.1\CompanyLogicLayer.deps.json
+C:\Users\HP\source\repos\CompanyLogicLayer\bin\Debug\netcoreapp3.1\CompanyLogicLayer.dll
+C:\Users\HP\source\repos\CompanyLogicLayer\bin\Debug\netcoreapp3.1\CompanyLogicLayer.pdb
+C:\Users\HP\source\repos\CompanyLogicLayer\obj\Debug\netcoreapp3.1\CompanyLogicLayer.dll
+C:\Users\HP\source\repos\CompanyLogicLayer\obj\Debug\netcoreapp3.1\CompanyLogicLayer.pdb

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.exe
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.deps.json
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.runtimeconfig.json
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.dll
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.pdb
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.AssemblyInfo.cs
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.dll
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.pdb
+C:\Users\HP\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LambdaMathCalc\bin\Debug\netcoreapp3.1\LambdaMathCalc.exe
+C:\Users\HP\source\repos\LambdaMathCalc\bin\Debug\netcoreapp3.1\LambdaMathCalc.deps.json
+C:\Users\HP\source\repos\LambdaMathCalc\bin\Debug\netcoreapp3.1\LambdaMathCalc.runtimeconfig.json
+C:\Users\HP\source\repos\LambdaMathCalc\bin\Debug\netcoreapp3.1\LambdaMathCalc.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LambdaMathCalc\bin\Debug\netcoreapp3.1\LambdaMathCalc.dll
+C:\Users\HP\source\repos\LambdaMathCalc\bin\Debug\netcoreapp3.1\LambdaMathCalc.pdb
+C:\Users\HP\source\repos\LambdaMathCalc\obj\Debug\netcoreapp3.1\LambdaMathCalc.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LambdaMathCalc\obj\Debug\netcoreapp3.1\LambdaMathCalc.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LambdaMathCalc\obj\Debug\netcoreapp3.1\LambdaMathCalc.AssemblyInfo.cs
+C:\Users\HP\source\repos\LambdaMathCalc\obj\Debug\netcoreapp3.1\LambdaMathCalc.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LambdaMathCalc\obj\Debug\netcoreapp3.1\LambdaMathCalc.dll
+C:\Users\HP\source\repos\LambdaMathCalc\obj\Debug\netcoreapp3.1\LambdaMathCalc.pdb
+C:\Users\HP\source\repos\LambdaMathCalc\obj\Debug\netcoreapp3.1\LambdaMathCalc.genruntimeconfig.cache

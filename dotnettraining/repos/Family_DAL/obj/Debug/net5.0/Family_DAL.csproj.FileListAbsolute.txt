@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Family_DAL\bin\Debug\net5.0\Family_DAL.deps.json
+C:\Users\HP\source\repos\Family_DAL\bin\Debug\net5.0\Family_DAL.dll
+C:\Users\HP\source\repos\Family_DAL\bin\Debug\net5.0\ref\Family_DAL.dll
+C:\Users\HP\source\repos\Family_DAL\bin\Debug\net5.0\Family_DAL.pdb
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\Family_DAL.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\Family_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\Family_DAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\Family_DAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\Family_DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\Family_DAL.dll
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\ref\Family_DAL.dll
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\Family_DAL.pdb
+C:\Users\HP\source\repos\Family_DAL\bin\Debug\net5.0\Family_DAL.runtimeconfig.json
+C:\Users\HP\source\repos\Family_DAL\bin\Debug\net5.0\Family_DAL.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Family_DAL\obj\Debug\net5.0\Family_DAL.genruntimeconfig.cache

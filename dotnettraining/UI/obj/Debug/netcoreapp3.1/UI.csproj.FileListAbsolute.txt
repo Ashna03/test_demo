@@ -1,0 +1,16 @@
+D:\dotnettraining\UI\bin\Debug\netcoreapp3.1\UI.exe
+D:\dotnettraining\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+D:\dotnettraining\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+D:\dotnettraining\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+D:\dotnettraining\UI\bin\Debug\netcoreapp3.1\UI.dll
+D:\dotnettraining\UI\bin\Debug\netcoreapp3.1\UI.pdb
+D:\dotnettraining\UI\bin\Debug\netcoreapp3.1\CoreLogicLayer1.dll
+D:\dotnettraining\UI\bin\Debug\netcoreapp3.1\CoreLogicLayer1.pdb
+D:\dotnettraining\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+D:\dotnettraining\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+D:\dotnettraining\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+D:\dotnettraining\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+D:\dotnettraining\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+D:\dotnettraining\UI\obj\Debug\netcoreapp3.1\UI.dll
+D:\dotnettraining\UI\obj\Debug\netcoreapp3.1\UI.pdb
+D:\dotnettraining\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache

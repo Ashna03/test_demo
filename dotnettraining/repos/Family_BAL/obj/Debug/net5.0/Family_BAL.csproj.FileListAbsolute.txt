@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Family_BAL\bin\Debug\net5.0\Family_BAL.deps.json
+C:\Users\HP\source\repos\Family_BAL\bin\Debug\net5.0\Family_BAL.dll
+C:\Users\HP\source\repos\Family_BAL\bin\Debug\net5.0\ref\Family_BAL.dll
+C:\Users\HP\source\repos\Family_BAL\bin\Debug\net5.0\Family_BAL.pdb
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\Family_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\Family_BAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\Family_BAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\Family_BAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\Family_BAL.dll
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\ref\Family_BAL.dll
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\Family_BAL.pdb
+C:\Users\HP\source\repos\Family_BAL\bin\Debug\net5.0\Family_DAL.dll
+C:\Users\HP\source\repos\Family_BAL\bin\Debug\net5.0\Family_DAL.pdb
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\Family_BAL.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Family_BAL\obj\Debug\net5.0\Family_BAL.csproj.CopyComplete
